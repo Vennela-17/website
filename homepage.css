@@ -1,0 +1,32 @@
+h1{
+    color:rgba(18, 18, 223, 0.778);
+    
+}
+h2{
+    color:rgb(129, 20, 230);
+}
+.first{
+    padding:50px;
+    margin:auto;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left:15%;
+    margin-right:15%;
+}
+img{
+    height: 250px;
+    width:250px;
+    margin-top: 55%;
+    margin-left: 25%;
+    border: 2px solid black;
+    border-radius: 50px 50px 50px 50px;
+}
+html{
+
+    background-attachment: fixed;
+    background-image: url(b6.jpg);
+    background-size: 100%;
+    background-color: azure;
+    
+    
+}

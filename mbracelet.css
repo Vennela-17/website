@@ -1,0 +1,33 @@
+.a{
+    margin: auto;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    justify-content: space-evenly;
+}
+img{
+    border: 2px solid black;
+    border-radius: 50px 50px 50px 50px;
+}
+h1{
+    color: red;
+}
+html{
+    background-attachment: fixed;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw7Eyq6HRxIImdhzTNxsGTl9mmK29eMyPRBQ&usqp=CAU);
+    background-size: 100%;
+}
+.home{
+    margin-left: 95%;
+    color: blue;
+}
+.back{
+    margin-left: 95%;
+}
+h2{
+    color: blue;
+}

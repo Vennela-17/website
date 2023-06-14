@@ -1,0 +1,38 @@
+.second{
+    padding:50px;
+    margin:auto;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left:5%;
+    margin-right:5%;
+}
+img{
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    border-radius: 50px 50px 50px 50px;
+    
+}
+html{
+    padding-left:10%;
+    padding-right: 10%;
+}
+h1{
+    color: red;
+}
+h2{
+    color: deeppink;
+}
+html{
+    background-attachment: fixed;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.s6tw9Rah_rLtqGafm3UF_wHaEo&pid=Api&P=0&h=180);
+    background-size: 100%;
+}
+.home{
+    margin-left: 100%;
+    color: blue;
+}
+.back{
+    margin-left: 100%;
+    color: blue;
+}

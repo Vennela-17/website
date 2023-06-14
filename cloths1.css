@@ -1,0 +1,35 @@
+h1{
+    color:rgb(129, 20, 230);
+
+}
+h2{
+    color: red;
+}
+.second{
+    padding:50px;
+    margin:auto;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left:10%;
+    margin-right:10%;
+    
+}
+img{
+    height: 200px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 50px 50px 50px 50px;
+    
+}
+html{
+
+    background-attachment: fixed;
+    background-image: url(ven.jpg);
+    background-size: 100%;
+}
+.home{
+    margin-left: 95%;
+}
+.back{
+    margin-left: 95%;
+}

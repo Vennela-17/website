@@ -1,0 +1,24 @@
+.pic{
+    background-color: lightgreen;
+    transition:background 1s linear;
+    background-size: 100%;
+}
+.pic:hover{
+    background-color: lightgreen;
+    animation: picture 0.5s infinite;
+}
+@keyframes picture {
+    0%{
+        background-color: red;
+    }
+    50%{
+        background-color:greenyellow;
+    }
+    
+    100%{
+        background-color: deepskyblue;
+    }
+}
+img{
+    align-items: center;
+}

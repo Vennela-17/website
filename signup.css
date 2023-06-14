@@ -1,0 +1,21 @@
+form{
+    border: 2px solid black;
+    /*background-image: url(https://i.pinimg.com/originals/8c/cd/b8/8ccdb8c9eb3657658b6a85dc1016ebcd.jpg);
+    background-size: 155%;*/
+    background-color: deeppink;
+    margin: auto;
+    margin-left:30%;
+    margin-right:30%;
+    border-radius: 30px;
+    padding: 20px;
+}
+body{
+    /*background-image: url(https://e1.pxfuel.com/desktop-wallpaper/223/681/desktop-wallpaper-nature-flower-scenery-video-royalty-landscape-video-scenery-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;*/
+    background-color: cyan;
+}
+h1{
+    text-align: center;
+    color: blue;
+}

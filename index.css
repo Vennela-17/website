@@ -1,0 +1,68 @@
+.txt{
+    font-size: xx-large;
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 40%;
+    color: black;    
+}
+.header{
+    display: flex;
+    height: 35px;
+    float: right;
+    font-size: xx-large;
+    color: white;
+}
+.nav{
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+hr{
+    margin-top: 25px;
+    height: 30px;
+}
+
+
+
+.pic{
+    background: url(https://img.freepik.com/free-vector/log-concept-landing-page_52683-22136.jpg);
+    height:750px;
+    width:1500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: background 1s linear;
+}
+.pic:hover{
+    background: url(https://img.freepik.com/free-vector/log-concept-landing-page_52683-22136.jpg);
+    height:750px;
+    width:1500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    animation:picture 5s infinite;
+}
+@keyframes picture {
+    0%{
+        background: url(https://png.pngtree.com/thumb_back/fh260/background/20210205/pngtree-flat-business-login-box-login-page-image_544861.jpg);
+        height:750px;
+        width:1500px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    50%{
+        background:url(https://c8.alamy.com/comp/2J6P359/poltava-ukraine-may-2-2022-meesho-online-shopping-app-icon-close-up-view-mobile-phone-with-meesho-application-logo-background-2J6P359.jpg);
+        height:750px;
+        width:1500px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    100%{
+        background: url(https://img.freepik.com/free-vector/log-concept-landing-page_52683-22136.jpg);
+        height:750px;
+        width:1500px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+
+    }
+}

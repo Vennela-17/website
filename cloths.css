@@ -1,0 +1,38 @@
+h1{
+    color:red;
+}
+h2{
+    color:deeppink;
+}
+h3{
+    color: yellow;
+}
+.second{
+    padding:50px;
+    margin:auto;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left:10%;
+    margin-right:10%;
+    
+}
+img{
+    height: 200px;
+    width:200px;
+    border: 2px solid black;
+    border-radius: 50px 50px 50px 50px;
+    
+}
+html{
+
+    background-attachment: fixed;
+    background-image: url(https://graphicriver.img.customer.envatousercontent.com/files/364818431/preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=590&s=de6c12c57ddef928556ec379dd55e259);
+    background-size: 100%; 
+    
+}
+.home{
+    margin-left: 95%;
+}
+.back{
+    margin-left: 95%;
+}
